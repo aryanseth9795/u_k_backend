@@ -1,0 +1,21 @@
+{
+  "name": "uk",
+  "version": "1.0.0",
+  "description": "This is backend of U&k ECom built in Express and Node js",
+  "keywords": [
+    "Deveoped",
+    "by",
+    "Aryan",
+    "Seth"
+  ],
+  "license": "ISC",
+  "author": "Aryan Seth",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
